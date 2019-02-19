@@ -1,23 +1,23 @@
-#Team name: Hidden Yan
+Team name: Hidden Yan
 
 ![Logo](/home/eugene/Загрузки/photo_2019-02-18_12-04-33.jpg)
 
 ***
 
-###Members:
+Members:
 
-####Product Owner: Залізний Захар
-####Scrum Master: Монько Олександр 
-####Team Lead:Залізний Захар
-####QA Lead: Суходольський Євгеній
-####Developers: Новохацький Владислав, Кулініч Ян
-####Testers: Ганайчук Максим, Грицюк Олександр
+Product Owner: Залізний Захар
+Scrum Master: Монько Олександр 
+Team Lead:Залізний Захар
+QA Lead: Суходольський Євгеній
+Developers: Новохацький Владислав, Кулініч Ян
+Testers: Ганайчук Максим, Грицюк Олександр
 
 ***
 
-###Main Theme:
+Main Theme:
 
-####NoiseSpeeded bluetooth car
+NoiseSpeeded bluetooth car
 
 ***
 [Посилання на команду в організації](https://github.com/orgs/progbase/teams/hidden-yan)
