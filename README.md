@@ -7,10 +7,15 @@ Team name: Hidden Yan
 Members:
 
 Product Owner: Залізний Захар
-Scrum Master: Монько Олександр 
+
+Scrum Master: Монько Олександр
+
 Team Lead:Залізний Захар
+
 QA Lead: Суходольський Євгеній
+
 Developers: Новохацький Владислав, Кулініч Ян
+
 Testers: Ганайчук Максим, Грицюк Олександр
 
 ***
