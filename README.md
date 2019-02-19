@@ -31,5 +31,5 @@
 
 [Презентація ідеї проекту команди](https://docs.google.com/presentation/d/1hPJ2SPIGLgDt5d6sqdkS21f9PGnQLCKjRR0A84UPcoE/edit#slide=id.p)
 
-[Таблиця деталей](http://example.com/)
+[Таблиця деталей](https://docs.google.com/spreadsheets/d/1Cslmpscso81RKNWgSwFdE2yYG1Y2NPUb40eKy5skWIc/edit?usp=sharing)
 
