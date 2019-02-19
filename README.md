@@ -27,7 +27,7 @@
 ***
 [Посилання на команду в організації](https://github.com/orgs/progbase/teams/hidden-yan)
 
-[Репозиторій команди в GitHub](https://github.com/progbase/Hidden-Yan-repo)
+[Проект команди в GitHub](https://github.com/orgs/progbase/projects/14)
 
 [Презентація ідеї проекту команди](https://docs.google.com/presentation/d/1hPJ2SPIGLgDt5d6sqdkS21f9PGnQLCKjRR0A84UPcoE/edit#slide=id.p)
 
