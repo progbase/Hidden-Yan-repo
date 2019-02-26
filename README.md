@@ -33,3 +33,5 @@
 
 [Таблиця деталей](https://docs.google.com/spreadsheets/d/1Cslmpscso81RKNWgSwFdE2yYG1Y2NPUb40eKy5skWIc/edit?usp=sharing)
 
+[BackLog](https://docs.google.com/spreadsheets/d/1ekqAEVoXza49JzZr8LiY8kW6q0vWIB5VMK1cmYODEw8/edit#gid=0)
+
