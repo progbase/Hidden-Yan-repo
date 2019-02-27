@@ -37,3 +37,5 @@
 
 [Sprint#1](https://docs.google.com/document/d/1ssWrgUadiD7a6KbZe9LbLRV9ogGM_FAUNI-1Hlwt87Y)
 
+[Issue Table](https://github.com/progbase/Hidden-Yan-repo/projects/1)
+
