@@ -33,9 +33,13 @@
 
 [Таблиця деталей](https://docs.google.com/spreadsheets/d/1Cslmpscso81RKNWgSwFdE2yYG1Y2NPUb40eKy5skWIc/edit?usp=sharing)
 
-[BackLog](https://docs.google.com/spreadsheets/d/1ekqAEVoXza49JzZr8LiY8kW6q0vWIB5VMK1cmYODEw8/edit#gid=0)
+[Issue Table](https://github.com/progbase/Hidden-Yan-repo/projects/1)
+
+[BackLog#1](https://docs.google.com/spreadsheets/d/1ekqAEVoXza49JzZr8LiY8kW6q0vWIB5VMK1cmYODEw8/edit#gid=0)
 
 [Sprint#1](https://docs.google.com/document/d/1ssWrgUadiD7a6KbZe9LbLRV9ogGM_FAUNI-1Hlwt87Y)
 
-[Issue Table](https://github.com/progbase/Hidden-Yan-repo/projects/1)
+[BackLog#2](https://docs.google.com/spreadsheets/d/1ekqAEVoXza49JzZr8LiY8kW6q0vWIB5VMK1cmYODEw8/edit#gid=0)
+
+[Sprint#2](https://docs.google.com/document/d/1_v8we6udC6ny2uNkzHyOSZdQzizN5yMFT_rwrXSQ1Nw/edit)
 
