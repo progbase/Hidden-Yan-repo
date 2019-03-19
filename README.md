@@ -39,7 +39,7 @@
 
 [Sprint#1](https://docs.google.com/document/d/1ssWrgUadiD7a6KbZe9LbLRV9ogGM_FAUNI-1Hlwt87Y)
 
-[Retrospective#1]([BackLog#1](https://docs.google.com/spreadsheets/d/1ekqAEVoXza49JzZr8LiY8kW6q0vWIB5VMK1cmYODEw8/edit#gid=0))
+[Retrospective#1]([BackLog#1](https://docs.google.com/spreadsheets/d/1ekqAEVoXza49JzZr8LiY8kW6q0vWIB5VMK1cmYODEw8/edit#gid=0)
 
 [BackLog#2](https://docs.google.com/spreadsheets/d/1QoZrNoqJghkuYMwIg-9Asubj_6eon0WUGW3twvYKTSQ/edit#gid=0)
 
