@@ -45,3 +45,5 @@
 
 [Sprint#2](https://docs.google.com/document/d/1_v8we6udC6ny2uNkzHyOSZdQzizN5yMFT_rwrXSQ1Nw/edit)
 
+[Documentation](https://docs.google.com/document/d/1BvWrrr-hq13aQW2M_U0aqzVtncDy4WYODuZV_mBtJAc/edit?usp=sharing)
+
