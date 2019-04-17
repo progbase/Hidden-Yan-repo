@@ -47,4 +47,4 @@
 
 [Documentation](https://docs.google.com/document/d/1BvWrrr-hq13aQW2M_U0aqzVtncDy4WYODuZV_mBtJAc/edit?usp=sharing)
 
-[Video](https://photos.app.goo.gl/JC5qoXPW2fVGe8R49)
+[Video](https://youtu.be/iVaNzwFITx0)
